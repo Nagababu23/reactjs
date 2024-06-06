@@ -1,0 +1,19 @@
+li {
+  width: 30vh;
+  border: 1px solid white;
+  border-radius: 5px;
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 10px 0 0;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.3);
+  font-weight: bold;
+}
+li img {
+  margin-right: 20px;
+}
+link-sec {
+  text-decoration: none;
+}
